@@ -80,8 +80,7 @@ ls, curl, git
 > - Check logs → `/var/log`
 > - Check configs → `/etc`
 
-## 🧠 Basic System Components (CPU, RAM, Disk) – Interview Explanation
-
+## 🧠 Basic System Components (CPU, RAM, Disk) 
 Before working with Linux systems, it is important to understand the core system resources: CPU, RAM, and Disk. These are the fundamental components that the operating system manages to run applications efficiently.
 
 ---

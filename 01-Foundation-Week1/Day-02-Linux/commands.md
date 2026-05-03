@@ -1,3 +1,5 @@
+### *Before learning this start [File System Of Linux](beforecommands.md) * ###
+
 ### *After giving multiple interviews, here’s what I realized for freshers
 
 Focus is not on theory — it’s on practical skills.

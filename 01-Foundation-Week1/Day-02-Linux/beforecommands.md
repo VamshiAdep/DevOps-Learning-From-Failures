@@ -8,8 +8,23 @@ Before learning Linux commands, we first focus on the **file system structure** 
 
 Type this command to see the root directories:
 
+ls l
+
 ```bash
-ls /
+Linux File System Structure
+
+When you type `ls /` you see the root of the entire system.
+
+| Directory | Purpose |
+|-----------|---------|
+| `/etc` | All config files live here (nginx, ssh, hosts) |
+| `/var` | Logs and runtime data — always check `/var/log` when something breaks |
+| `/home` | User home directories — SSH into EC2 and you land here |
+| `/bin` `/usr/bin` | All commands live here (ls, curl, git, etc.) |
+| `/tmp` | Temporary files — cleared on every reboot |
+| `/proc` | Real-time system info — CPU, memory, running processes |
+| `/root` | Home directory of the root (admin) user |
+| `/opt` | Optional software — Jenkins, custom apps installed here |
 ```
 
 ---

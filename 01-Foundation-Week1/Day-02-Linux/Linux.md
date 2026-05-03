@@ -153,3 +153,28 @@ Kernel → Shell → Terminal
 ```text
 User → Shell → System Call → Kernel → Hardware → Kernel → Shell → Output
 ```
+
+## 🌍 Why Engineers or Organizations Use Linux?
+
+- 🌐 **90% of servers run on Linux**  
+  AWS EC2, GCP VMs, Kubernetes nodes — all run on Linux underneath  
+
+- 🐳 **DevOps tools depend on Linux**  
+  Docker uses the Linux kernel  
+  Kubernetes runs on Linux  
+  Jenkins is mostly used on Linux  
+
+- ⚙️ **Automation Friendly**  
+  Bash scripting makes automation powerful and simple  
+
+- 🔒 **Secure & Stable**  
+  Strong permissions and reliable for production systems  
+
+---
+
+### 🎯 Simple Understanding
+
+> "As a DevOps engineer, I live in the terminal. Linux is my home."
+       90% of servers in the world run Linux — AWS EC2, GCP VM, Kubernetes nodes — all Linux underneath
+       Docker runs on Linux kernel. Kubernetes runs on Linux. Jenkins runs on Linux. Your DevOps career lives on Linux.
+       Write in your notes: "As a DevOps engineer, I live in the terminal. Linux is my home." 

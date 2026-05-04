@@ -1,4 +1,3 @@
-# 🐧 What is an Operating System (OS)?
 
 ## 1. What is an Operating System (OS)?
 

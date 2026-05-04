@@ -8,7 +8,7 @@ Before learning Linux commands, we first focus on the **file system structure** 
 
 Type this command to see the root directories:
 
-ls l
+ls /
 
 ```bash
 Linux File System Structure
